@@ -14,7 +14,7 @@ Báo cáo chi tiết về quá trình chuyển đổi module DocLayout được 
 ## **Requirements**
 Mục tiêu tối thượng của quá trình chuyển đổi là không làm ảnh hưởng đến module DocLayout, vì vậy môi trường thực thi chuyển đổi cũng sẽ đảm bảo môi trường như mặc định của DocLayout.
 
-## **Used**
+## **Using**
 Convert:
 
 `cd detectron2/tools/deploy/`
